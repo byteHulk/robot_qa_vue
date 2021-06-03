@@ -1,0 +1,12 @@
+{
+    "rid": "19",
+    "uid": "0",
+    "qid": "19",
+    "tag": 2,
+    "chat_id": null,
+    "question_translate": "Binary tree",
+    "message": "Binary tree:<br/>In computer science, a binary tree is a tree structure with a maximum of two subtrees per node. ", 
+    "type": "answer", 
+    "source": "来自讨论区",
+    "url": "http://192.168.9.249/courses/course-v1:UST+UST001+sp/discussion/forum/course/threads/5856af46459f08f5a0000d3e"
+}

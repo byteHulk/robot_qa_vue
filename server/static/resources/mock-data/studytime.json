@@ -1,0 +1,22 @@
+{
+  "study_status": 0,
+
+  "study_flag": "study_plan",
+  "content": [
+    {
+      "url":
+        "http://www.xuetangx.com/courses/course-v1:TsinghuaX+10430575X_+sp/about",
+      "name": "力学（自主模式）"
+    },
+    {
+      "url":
+        "http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_p2+sp/about",
+      "name": "数据结构-向量（微慕课）"
+    },
+    {
+      "url":
+        "http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184_p1+sp/about",
+      "name": "数据结构-算法基础（微慕课）"
+    }
+  ]
+}

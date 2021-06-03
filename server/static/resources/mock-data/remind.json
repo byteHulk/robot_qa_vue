@@ -1,0 +1,11 @@
+{
+	"data": [ 
+		{ "text": "数据结构", "score": 6.335760851254695, "tag": 2, "source": "baike" }, 
+		{ "text": "a a a a", "score": 6.335760851254695, "tag": 2, "source": "baike" }, 
+		{ "text": "什么是数据结构", "content": "什么是数据结构", "score": 5.5064616, "tag": 2, "source": "forum" }, 
+		{ "text": "《数据结构》", "score": 5.166590441912253, "tag": 2, "source": "baike" }, 
+		{ "text": "没有学过概率和离散也能掌握数据结构吗？", "content": "电子的学生想转研究软件，不过课程没有安排离散和概率，也能学好数据结构不？", "score": 4.6190394, "tag": 2, "source": "forum" }, 
+		{ "text": "数据结构(第2版)", "score": 4.361703034936234, "tag": 2, "source": "baike" } 
+	],
+	"success": true
+}
